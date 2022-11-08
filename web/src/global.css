@@ -2,11 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-    @apply text-red-700;
-    font-family: 'Cairo', sans-serif;
+body{
+  @apply text-red-700;
+  font-family: 'Poppins', sans-serif;
 }
-
-input {
-    outline: 0;
+input{
+  outline: 0;
 }
