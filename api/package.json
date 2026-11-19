@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Ar3secchim/challenge-fullStack-CupBet#readme",
   "dependencies": {
-    "@koa/cors": "^3.4.2",
+    "@koa/cors": "^5.0.0",
     "@koa/router": "^12.0.0",
     "@prisma/client": "^4.4.0",
     "bcrypt": "^5.1.0",
@@ -29,7 +29,7 @@
     "dotenv-safe": "^8.2.0",
     "j": "^1.0.0",
     "jsonwebtoken": "^8.5.1",
-    "koa": "^2.13.4",
+    "koa": "^3.1.2",
     "koa-bodyparser": "^4.3.0"
   },
   "devDependencies": {
